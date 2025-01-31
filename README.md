@@ -2,6 +2,7 @@
 
 <h2>📚 Sobre</h2>
 <p>Este projeto foi desenvolvido durante os cursos de lógica de programação da Alura, com o objetivo de praticar a implementação de um sorteio de amigo secreto utilizando HTML, CSS e JavaScript.</p>
+<p>Acesse o site ao vivo: <a href="https://sortear-amigo-secreto-xi.vercel.app" target="_blank">sortear-amigo-secreto-xi.vercel.app</a></p>
 
 <h2>🛠️ Tecnologias Utilizadas</h2>
 <div>
@@ -10,10 +11,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 
-<h2>🚀 Como Rodar o Projeto</h2>
+<h2>🚀 Como Acessar o Projeto</h2>
 <ol>
-  <li>Clone este repositório.</li>
-  <li>Abra o arquivo <code>index.html</code> em seu navegador.</li>
+  <li>Você pode acessar o projeto diretamente online clicando neste link: <a href="https://sortear-amigo-secreto-xi.vercel.app" target="_blank">sortear-amigo-secreto-xi.vercel.app</a></li>
 </ol>
 
 <h2>🎯 Funcionalidades</h2>
